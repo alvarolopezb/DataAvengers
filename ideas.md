@@ -3,8 +3,8 @@
 ### Datasets con descripciones de trabajos para NER:
 
 La idea es usar a Gepeto para traducirlos a español y etiquetarlos tocandonos las narices
-https://www.kaggle.com/datasets/yuanmozhu/job-boards-listings-for-it-jobs
-https://www.kaggle.com/datasets/andrewmvd/data-analyst-jobs
+- https://www.kaggle.com/datasets/yuanmozhu/job-boards-listings-for-it-jobs
+- https://www.kaggle.com/datasets/andrewmvd/data-analyst-jobs
 
 ## NLP:
 
